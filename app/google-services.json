@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "628454475713",
+    "firebase_url": "https://flexlangfirebase.firebaseio.com",
+    "project_id": "flexlangfirebase",
+    "storage_bucket": "flexlangfirebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:628454475713:android:91f25611aa7bd71c0fd140",
+        "android_client_info": {
+          "package_name": "com.example.empty"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "628454475713-73qv7412qaarsagcc7e9gdb8g2glmbe8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.empty",
+            "certificate_hash": "4e494720f19e1fc160c30ae9b2aa7b410cb0a630"
+          }
+        },
+        {
+          "client_id": "628454475713-f2b73vusi0dsule0iccjm09ovvcn0n5e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.empty",
+            "certificate_hash": "515295f42642a54d51ccbeb8657ef4ecc13b3dd5"
+          }
+        },
+        {
+          "client_id": "628454475713-foikokhn96ns8gg85aeq4i2nf2ukrqu4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmyo2g5WhQmWKy_NhNk95yr1sAdPZnlQc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "628454475713-foikokhn96ns8gg85aeq4i2nf2ukrqu4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
